@@ -1,18 +1,10 @@
+<img width="1919" height="757" alt="Screenshot 2026-03-31 182043" src="https://github.com/user-attachments/assets/10cc5738-91b6-4871-ba1d-e7d9719536dd" />
+
 # Amazon Sales Power BI Dashboard
 
 ## Project Overview  
 This is a Power BI dashboard built using a realistic Amazon sales dataset.  
 It helps analyze sales, customer behavior, and product performance in a simple and visual way.
-
----
-
-## Dashboard Preview  
-
-### Main Dashboard  
-<img src="images/dashboard.png" width="100%"/>
-
-### Data Transformation (Power Query)  
-<img src="images/data.png" width="100%"/>
 
 ---
 
