@@ -31,7 +31,3 @@ It helps analyze sales, customer behavior, and product performance in a simple a
 
 ---
 
-## 🙌 Note  
-
-This project is for learning and practice.  
-Feel free to give feedback!
