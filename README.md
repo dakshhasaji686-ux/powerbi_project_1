@@ -1,1 +1,45 @@
-# powerbi_project_1
+# Amazon Sales Power BI Dashboard
+
+## Project Overview  
+This is a Power BI dashboard built using a realistic Amazon sales dataset.  
+It helps analyze sales, customer behavior, and product performance in a simple and visual way.
+
+---
+
+## Dashboard Preview  
+
+### Main Dashboard  
+<img src="images/dashboard.png" width="100%"/>
+
+### Data Transformation (Power Query)  
+<img src="images/data.png" width="100%"/>
+
+---
+
+## Key Insights  
+
+- Total Revenue: 65M+  
+- Quantity Sold: 300K+  
+- Average Rating: ~4  
+
+### Insights:
+- Beauty & Fashion are top categories  
+- Tier 1 cities generate more revenue  
+- Sales peak during Oct–Nov (festival season)  
+- Debit Card & UPI are widely used  
+- Delivery varies by region  
+
+---
+
+## Tools Used  
+
+- Power BI  
+- Power Query  
+- DAX  
+
+---
+
+## 🙌 Note  
+
+This project is for learning and practice.  
+Feel free to give feedback!
